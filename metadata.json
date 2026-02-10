@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Comprehensive Prayer Times (أوقات الصلاة الشامل)",
+  "description": "A comprehensive Islamic application for prayer times, Qibla, Tasbeeh, fasting reminders, and religious alarms with geolocation support and multi-language capabilities.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
